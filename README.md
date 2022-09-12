@@ -1,5 +1,7 @@
 # SIH_VRAcademicBuilding
 
+Smart India Hackathon is a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving
+
 Our team qualified the premilinary rounds of Smart India Hackathon(SIH)2020 held during February 2020.
 One of the problem statements we aimed for was promoting tourism for cultural places in Andaman and Nicobar Islands. Therefore, we developed a prototype of our University Academic Building in VR. The app involved the following features:
 
